@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI3EM\\Desktop\\Apps\\Exemplo Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEDCBF2-450C-4438-8A7C-C8B7C94AFFA0}|Exemplo Login\\Exemplo Login.csproj|c:\\users\\senai3em\\desktop\\apps\\exemplo login\\exemplo login\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8EEDCBF2-450C-4438-8A7C-C8B7C94AFFA0}|Exemplo Login\\Exemplo Login.csproj|solutionrelative:exemplo login\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEDCBF2-450C-4438-8A7C-C8B7C94AFFA0}|Exemplo Login\\Exemplo Login.csproj|c:\\users\\senai3em\\desktop\\apps\\exemplo login\\exemplo login\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEDCBF2-450C-4438-8A7C-C8B7C94AFFA0}|Exemplo Login\\Exemplo Login.csproj|solutionrelative:exemplo login\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEDCBF2-450C-4438-8A7C-C8B7C94AFFA0}|Exemplo Login\\Exemplo Login.csproj|c:\\users\\senai3em\\desktop\\apps\\exemplo login\\exemplo login\\pages\\editsusuariopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8EEDCBF2-450C-4438-8A7C-C8B7C94AFFA0}|Exemplo Login\\Exemplo Login.csproj|solutionrelative:exemplo login\\pages\\editsusuariopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEDCBF2-450C-4438-8A7C-C8B7C94AFFA0}|Exemplo Login\\Exemplo Login.csproj|c:\\users\\senai3em\\desktop\\apps\\exemplo login\\exemplo login\\pages\\editsusuariopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEDCBF2-450C-4438-8A7C-C8B7C94AFFA0}|Exemplo Login\\Exemplo Login.csproj|solutionrelative:exemplo login\\pages\\editsusuariopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditsUsuarioPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\Apps\\Exemplo Login\\Exemplo Login\\Pages\\EditsUsuarioPage.xaml",
+              "RelativeDocumentMoniker": "Exemplo Login\\Pages\\EditsUsuarioPage.xaml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\Apps\\Exemplo Login\\Exemplo Login\\Pages\\EditsUsuarioPage.xaml",
+              "RelativeToolTip": "Exemplo Login\\Pages\\EditsUsuarioPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T17:26:26.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\Apps\\Exemplo Login\\Exemplo Login\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Exemplo Login\\Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\Apps\\Exemplo Login\\Exemplo Login\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "Exemplo Login\\Pages\\LoginPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T17:26:02.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\Apps\\Exemplo Login\\Exemplo Login\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Exemplo Login\\Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\Apps\\Exemplo Login\\Exemplo Login\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "Exemplo Login\\Pages\\LoginPage.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBAAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:24:07.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditsUsuarioPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\Apps\\Exemplo Login\\Exemplo Login\\Pages\\EditsUsuarioPage.xaml.cs",
+              "RelativeDocumentMoniker": "Exemplo Login\\Pages\\EditsUsuarioPage.xaml.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\Apps\\Exemplo Login\\Exemplo Login\\Pages\\EditsUsuarioPage.xaml.cs",
+              "RelativeToolTip": "Exemplo Login\\Pages\\EditsUsuarioPage.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:16:42.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
